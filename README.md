@@ -6,7 +6,7 @@ Before deploying the virtual machine, please update the following files:
     Update your Azure subscription information in this file
 
 * **azure-user-data.sh**
-    Update this file to put wget command for the activegate for your Dynatrace tenat
+    Update this file to put wget command for the activegate for your Dynatrace tenant
 
 * **linux-vm-variables.tf**
     Update this file if you want to change the flavor of Linux used. By default, it is going to use Ubuntu 18.04
