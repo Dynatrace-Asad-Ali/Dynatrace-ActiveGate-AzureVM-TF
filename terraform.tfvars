@@ -9,10 +9,10 @@ location    = "centralus"
 ##################
 # Authentication #
 ##################
-azure-subscription-id = "7a91e8b3-ee09-4906-91a2-f357b77a61fd"
-azure-client-id       = "dc2f069b-2ea3-4d99-94d5-9e3b6eb9d2c9"
-azure-client-secret   = "MI7Cy1ccv3ytMW40~k_~dw-2kwy.BtiNOe"
-azure-tenant-id       = "70ebe3a3-5b30-435d-9d67-7716d74ca190"
+azure-subscription-id = "your-subscription-id"
+azure-client-id       = "your-client-id"
+azure-client-secret   = "your-client-secret"
+azure-tenant-id       = "your-tenant-id"
 
 ###########
 # Network #
